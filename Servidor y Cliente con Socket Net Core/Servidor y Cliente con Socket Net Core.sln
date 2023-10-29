@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servidor y Cliente con Socket Net Core", "Servidor y Cliente con Socket Net Core\Servidor y Cliente con Socket Net Core.csproj", "{1423C581-633F-48EC-A340-E1B657B2576E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1423C581-633F-48EC-A340-E1B657B2576E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1423C581-633F-48EC-A340-E1B657B2576E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1423C581-633F-48EC-A340-E1B657B2576E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1423C581-633F-48EC-A340-E1B657B2576E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB80C7BB-89E2-4E17-85E2-AD80B7D33D92}
+	EndGlobalSection
+EndGlobal

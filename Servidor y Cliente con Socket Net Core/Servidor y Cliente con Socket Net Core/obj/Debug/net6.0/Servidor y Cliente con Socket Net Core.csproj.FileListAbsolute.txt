@@ -1,0 +1,15 @@
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\Servidor y Cliente con Socket Net Core\Servidor y Cliente con Socket Net Core\bin\Debug\net6.0\Servidor y Cliente con Socket Net Core.exe
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\Servidor y Cliente con Socket Net Core\Servidor y Cliente con Socket Net Core\bin\Debug\net6.0\Servidor y Cliente con Socket Net Core.deps.json
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\Servidor y Cliente con Socket Net Core\Servidor y Cliente con Socket Net Core\bin\Debug\net6.0\Servidor y Cliente con Socket Net Core.runtimeconfig.json
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\Servidor y Cliente con Socket Net Core\Servidor y Cliente con Socket Net Core\bin\Debug\net6.0\Servidor y Cliente con Socket Net Core.dll
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\Servidor y Cliente con Socket Net Core\Servidor y Cliente con Socket Net Core\bin\Debug\net6.0\Servidor y Cliente con Socket Net Core.pdb
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\Servidor y Cliente con Socket Net Core\Servidor y Cliente con Socket Net Core\obj\Debug\net6.0\Servidor y Cliente con Socket Net Core.csproj.AssemblyReference.cache
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\Servidor y Cliente con Socket Net Core\Servidor y Cliente con Socket Net Core\obj\Debug\net6.0\Servidor y Cliente con Socket Net Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\Servidor y Cliente con Socket Net Core\Servidor y Cliente con Socket Net Core\obj\Debug\net6.0\Servidor y Cliente con Socket Net Core.AssemblyInfoInputs.cache
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\Servidor y Cliente con Socket Net Core\Servidor y Cliente con Socket Net Core\obj\Debug\net6.0\Servidor y Cliente con Socket Net Core.AssemblyInfo.cs
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\Servidor y Cliente con Socket Net Core\Servidor y Cliente con Socket Net Core\obj\Debug\net6.0\Servidor y Cliente con Socket Net Core.csproj.CoreCompileInputs.cache
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\Servidor y Cliente con Socket Net Core\Servidor y Cliente con Socket Net Core\obj\Debug\net6.0\Servidor y Cliente con Socket Net Core.dll
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\Servidor y Cliente con Socket Net Core\Servidor y Cliente con Socket Net Core\obj\Debug\net6.0\refint\Servidor y Cliente con Socket Net Core.dll
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\Servidor y Cliente con Socket Net Core\Servidor y Cliente con Socket Net Core\obj\Debug\net6.0\Servidor y Cliente con Socket Net Core.pdb
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\Servidor y Cliente con Socket Net Core\Servidor y Cliente con Socket Net Core\obj\Debug\net6.0\Servidor y Cliente con Socket Net Core.genruntimeconfig.cache
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\Servidor y Cliente con Socket Net Core\Servidor y Cliente con Socket Net Core\obj\Debug\net6.0\ref\Servidor y Cliente con Socket Net Core.dll
