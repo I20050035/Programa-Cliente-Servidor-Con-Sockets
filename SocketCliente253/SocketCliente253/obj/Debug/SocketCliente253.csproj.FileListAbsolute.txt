@@ -1,0 +1,8 @@
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\SocketCliente253\SocketCliente253\bin\Debug\SocketCliente253.exe.config
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\SocketCliente253\SocketCliente253\bin\Debug\SocketCliente253.exe
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\SocketCliente253\SocketCliente253\bin\Debug\SocketCliente253.pdb
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\SocketCliente253\SocketCliente253\obj\Debug\SocketCliente253.csproj.AssemblyReference.cache
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\SocketCliente253\SocketCliente253\obj\Debug\SocketCliente253.csproj.SuggestedBindingRedirects.cache
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\SocketCliente253\SocketCliente253\obj\Debug\SocketCliente253.csproj.CoreCompileInputs.cache
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\SocketCliente253\SocketCliente253\obj\Debug\SocketCliente253.exe
+E:\Max\Tareas\Pendientes\Cliente Servidor U2\SocketCliente253\SocketCliente253\obj\Debug\SocketCliente253.pdb
